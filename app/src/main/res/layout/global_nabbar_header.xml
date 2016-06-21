@@ -26,12 +26,13 @@
             android:textStyle="bold" />
 
         <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="45dp"
+            android:layout_height="42dp"
             android:layout_gravity="center_vertical"
             android:layout_margin="16dp"
             android:background="@android:color/transparent"
-            android:src="@drawable/ct_global_navbar_search" />
+            android:src="@drawable/ct_global_navbar_search"
+            android:layout_weight="0.01" />
 
     </LinearLayout>
 
