@@ -15,7 +15,7 @@ import android.view.View;
 import com.mxn.soul.flowingdrawer_core.FlowingView;
 import com.mxn.soul.flowingdrawer_core.LeftDrawerLayout;
 
-public class MainActivity extends AppCompatActivity implements ProfileFragment.OnFragmentInteractionListener {
+public class MainActivity extends AppCompatActivity  {
 
     private RecyclerView rvFeed;
     private LeftDrawerLayout mLeftDrawerLayout;
@@ -60,20 +60,41 @@ public class MainActivity extends AppCompatActivity implements ProfileFragment.O
         mainTabLayout = (TabLayout ) findViewById(R.id.tablayout_client);
         mainTabLayout.setupWithViewPager(mainViewPager);
 
+
+         mainTabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+        @Override
+        public void onTabSelected(TabLayout.Tab tab) {
+            mainViewPager.setCurrentItem(tab.getPosition());
+        }
+
+        @Override
+        public void onTabUnselected(TabLayout.Tab tab) {
+
+        }
+
+        @Override
+        public void onTabReselected(TabLayout.Tab tab) {
+
+        }
+        });
+
+
     }
 
-    private void setupViewPager(ViewPager viewPager) {
+    private void setupViewPager(final ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new ProfileFragment(), "Profile");
         adapter.addFragment(new ProfileFragment(), "Usage");
         adapter.addFragment(new ProfileFragment(), "Account");
         viewPager.setAdapter(adapter);
+        viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(mainTabLayout));
+
     }
 
     protected void setupToolbar() {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        toolbar.setNavigationIcon(R.drawable.ct_menu_white);
+        //toolbar.setNavigationIcon(R.drawable.ct_menu_white);
 
 
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
@@ -84,8 +105,5 @@ public class MainActivity extends AppCompatActivity implements ProfileFragment.O
         });
     }
 
-    @Override
-    public void onFragmentInteraction(Uri uri) {
 
-    }
 }

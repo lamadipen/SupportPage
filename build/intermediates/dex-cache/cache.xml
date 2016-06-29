@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.github.vajro\MaterialDesignLibrary\1.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b083f9ed76344c2f2b227c56d597f6d08d3fefc8">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.github.vajro-MaterialDesignLibrary-1.6_77f67d0f18a47712d9ee71825f1b6ee976458429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd31da80b5b93fe7dbad33f7d20d6be17f7b5386">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_36deb0f8d513a2e2ecd909357379c9d3a6694cbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c947468f39c36ef45dd1376d2ca1645a858772ba">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\instant-run_3b2df025a95ac92ffba29b488d3a3b31d134fb6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_a742bc2135c8e1058901b1ae6421b167424ac8b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_497c4c60a7b5682133c3332848c8073727cb8cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.1.4_1cf47c9958a0d746afaa7af165269189d668694c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4e46ae8272209ede424f7fe637761124cf79cb23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.mxn.soul\flowingdrawer-core\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47b78e5a1e10bd6aeb45069d652f5a04d123bebb">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.mxn.soul-flowingdrawer-core-1.2.2_95d330979d4fd6e99e24c14378b2c4b235a6c0a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ed876c18be6394505e25546e9de9ae741d74ebb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_65a88437f408a589a752d8d0d99ea64c892a8cae.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.github.zzz40500\AndroidSweetSheet\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e6e30a296f144126c62da545452456950e56b27">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.github.zzz40500-AndroidSweetSheet-1.1.0_2a885cdd9eaf48e1b7b5c08314d43db5a33fa1f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_d3251c17aa47f4d93359e6f33e09366b023c9759.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4dcfff30c157c6c945c8eafdb2675bb5baca235e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Downloads\Android demo\SupportPage\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_99780cd3b63bfc7ed28902b3838b4818aa0536aa.jar" />
+    </item>
+
+</items>
